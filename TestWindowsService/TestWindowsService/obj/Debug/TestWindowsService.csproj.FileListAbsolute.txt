@@ -1,0 +1,8 @@
+C:\Users\Mr.Gawzy\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe.config
+C:\Users\Mr.Gawzy\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+C:\Users\Mr.Gawzy\source\repos\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.pdb
+C:\Users\Mr.Gawzy\source\repos\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csprojAssemblyReference.cache
+C:\Users\Mr.Gawzy\source\repos\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.ProjectInstaller.resources
+C:\Users\Mr.Gawzy\source\repos\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.GenerateResource.cache
+C:\Users\Mr.Gawzy\source\repos\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.exe
+C:\Users\Mr.Gawzy\source\repos\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.pdb
